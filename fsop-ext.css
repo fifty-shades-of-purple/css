@@ -1,0 +1,450 @@
+.fsop-c-0 {
+    color: var(--fsop-0)
+}
+.fsop-c-1 {
+    color: var(--fsop-1)
+}
+.fsop-c-2 {
+    color: var(--fsop-2)
+}
+.fsop-c-3 {
+    color: var(--fsop-3)
+}
+.fsop-c-4 {
+    color: var(--fsop-4)
+}
+.fsop-c-5 {
+    color: var(--fsop-5)
+}
+.fsop-c-6 {
+    color: var(--fsop-6)
+}
+.fsop-c-7 {
+    color: var(--fsop-7)
+}
+.fsop-c-8 {
+    color: var(--fsop-8)
+}
+.fsop-c-9 {
+    color: var(--fsop-9)
+}
+.fsop-c-10 {
+    color: var(--fsop-10)
+}
+.fsop-c-11 {
+    color: var(--fsop-11)
+}
+.fsop-c-12 {
+    color: var(--fsop-12)
+}
+.fsop-c-13 {
+    color: var(--fsop-13)
+}
+.fsop-c-14 {
+    color: var(--fsop-14)
+}
+.fsop-c-15 {
+    color: var(--fsop-15)
+}
+.fsop-c-16 {
+    color: var(--fsop-16)
+}
+.fsop-c-17 {
+    color: var(--fsop-17)
+}
+.fsop-c-18 {
+    color: var(--fsop-18)
+}
+.fsop-c-19 {
+    color: var(--fsop-19)
+}
+.fsop-c-20 {
+    color: var(--fsop-20)
+}
+.fsop-c-21 {
+    color: var(--fsop-21)
+}
+.fsop-c-22 {
+    color: var(--fsop-22)
+}
+.fsop-c-23 {
+    color: var(--fsop-23)
+}
+.fsop-c-24 {
+    color: var(--fsop-24)
+}
+.fsop-c-25 {
+    color: var(--fsop-25)
+}
+.fsop-c-26 {
+    color: var(--fsop-26)
+}
+.fsop-c-27 {
+    color: var(--fsop-27)
+}
+.fsop-c-28 {
+    color: var(--fsop-28)
+}
+.fsop-c-29 {
+    color: var(--fsop-29)
+}
+.fsop-c-30 {
+    color: var(--fsop-30)
+}
+.fsop-c-31 {
+    color: var(--fsop-31)
+}
+.fsop-c-32 {
+    color: var(--fsop-32)
+}
+.fsop-c-33 {
+    color: var(--fsop-33)
+}
+.fsop-c-34 {
+    color: var(--fsop-34)
+}
+.fsop-c-35 {
+    color: var(--fsop-35)
+}
+.fsop-c-36 {
+    color: var(--fsop-36)
+}
+.fsop-c-37 {
+    color: var(--fsop-37)
+}
+.fsop-c-38 {
+    color: var(--fsop-38)
+}
+.fsop-c-39 {
+    color: var(--fsop-39)
+}
+.fsop-c-40 {
+    color: var(--fsop-40)
+}
+.fsop-c-41 {
+    color: var(--fsop-41)
+}
+.fsop-c-42 {
+    color: var(--fsop-42)
+}
+.fsop-c-43 {
+    color: var(--fsop-43)
+}
+.fsop-c-44 {
+    color: var(--fsop-44)
+}
+.fsop-c-45 {
+    color: var(--fsop-45)
+}
+.fsop-c-46 {
+    color: var(--fsop-46)
+}
+.fsop-c-47 {
+    color: var(--fsop-47)
+}
+.fsop-c-48 {
+    color: var(--fsop-48)
+}
+.fsop-c-49 {
+    color: var(--fsop-49)
+}
+.fsop-bg-0 {
+    background-color: var(--fsop-0)
+}
+.fsop-bg-1 {
+    background-color: var(--fsop-1)
+}
+.fsop-bg-2 {
+    background-color: var(--fsop-2)
+}
+.fsop-bg-3 {
+    background-color: var(--fsop-3)
+}
+.fsop-bg-4 {
+    background-color: var(--fsop-4)
+}
+.fsop-bg-5 {
+    background-color: var(--fsop-5)
+}
+.fsop-bg-6 {
+    background-color: var(--fsop-6)
+}
+.fsop-bg-7 {
+    background-color: var(--fsop-7)
+}
+.fsop-bg-8 {
+    background-color: var(--fsop-8)
+}
+.fsop-bg-9 {
+    background-color: var(--fsop-9)
+}
+.fsop-bg-10 {
+    background-color: var(--fsop-10)
+}
+.fsop-bg-11 {
+    background-color: var(--fsop-11)
+}
+.fsop-bg-12 {
+    background-color: var(--fsop-12)
+}
+.fsop-bg-13 {
+    background-color: var(--fsop-13)
+}
+.fsop-bg-14 {
+    background-color: var(--fsop-14)
+}
+.fsop-bg-15 {
+    background-color: var(--fsop-15)
+}
+.fsop-bg-16 {
+    background-color: var(--fsop-16)
+}
+.fsop-bg-17 {
+    background-color: var(--fsop-17)
+}
+.fsop-bg-18 {
+    background-color: var(--fsop-18)
+}
+.fsop-bg-19 {
+    background-color: var(--fsop-19)
+}
+.fsop-bg-20 {
+    background-color: var(--fsop-20)
+}
+.fsop-bg-21 {
+    background-color: var(--fsop-21)
+}
+.fsop-bg-22 {
+    background-color: var(--fsop-22)
+}
+.fsop-bg-23 {
+    background-color: var(--fsop-23)
+}
+.fsop-bg-24 {
+    background-color: var(--fsop-24)
+}
+.fsop-bg-25 {
+    background-color: var(--fsop-25)
+}
+.fsop-bg-26 {
+    background-color: var(--fsop-26)
+}
+.fsop-bg-27 {
+    background-color: var(--fsop-27)
+}
+.fsop-bg-28 {
+    background-color: var(--fsop-28)
+}
+.fsop-bg-29 {
+    background-color: var(--fsop-29)
+}
+.fsop-bg-30 {
+    background-color: var(--fsop-30)
+}
+.fsop-bg-31 {
+    background-color: var(--fsop-31)
+}
+.fsop-bg-32 {
+    background-color: var(--fsop-32)
+}
+.fsop-bg-33 {
+    background-color: var(--fsop-33)
+}
+.fsop-bg-34 {
+    background-color: var(--fsop-34)
+}
+.fsop-bg-35 {
+    background-color: var(--fsop-35)
+}
+.fsop-bg-36 {
+    background-color: var(--fsop-36)
+}
+.fsop-bg-37 {
+    background-color: var(--fsop-37)
+}
+.fsop-bg-38 {
+    background-color: var(--fsop-38)
+}
+.fsop-bg-39 {
+    background-color: var(--fsop-39)
+}
+.fsop-bg-40 {
+    background-color: var(--fsop-40)
+}
+.fsop-bg-41 {
+    background-color: var(--fsop-41)
+}
+.fsop-bg-42 {
+    background-color: var(--fsop-42)
+}
+.fsop-bg-43 {
+    background-color: var(--fsop-43)
+}
+.fsop-bg-44 {
+    background-color: var(--fsop-44)
+}
+.fsop-bg-45 {
+    background-color: var(--fsop-45)
+}
+.fsop-bg-46 {
+    background-color: var(--fsop-46)
+}
+.fsop-bg-47 {
+    background-color: var(--fsop-47)
+}
+.fsop-bg-48 {
+    background-color: var(--fsop-48)
+}
+.fsop-bg-49 {
+    background-color: var(--fsop-49)
+}
+.fsop-bc-0 {
+    border-color: var(--fsop-0)
+}
+.fsop-bc-1 {
+    border-color: var(--fsop-1)
+}
+.fsop-bc-2 {
+    border-color: var(--fsop-2)
+}
+.fsop-bc-3 {
+    border-color: var(--fsop-3)
+}
+.fsop-bc-4 {
+    border-color: var(--fsop-4)
+}
+.fsop-bc-5 {
+    border-color: var(--fsop-5)
+}
+.fsop-bc-6 {
+    border-color: var(--fsop-6)
+}
+.fsop-bc-7 {
+    border-color: var(--fsop-7)
+}
+.fsop-bc-8 {
+    border-color: var(--fsop-8)
+}
+.fsop-bc-9 {
+    border-color: var(--fsop-9)
+}
+.fsop-bc-10 {
+    border-color: var(--fsop-10)
+}
+.fsop-bc-11 {
+    border-color: var(--fsop-11)
+}
+.fsop-bc-12 {
+    border-color: var(--fsop-12)
+}
+.fsop-bc-13 {
+    border-color: var(--fsop-13)
+}
+.fsop-bc-14 {
+    border-color: var(--fsop-14)
+}
+.fsop-bc-15 {
+    border-color: var(--fsop-15)
+}
+.fsop-bc-16 {
+    border-color: var(--fsop-16)
+}
+.fsop-bc-17 {
+    border-color: var(--fsop-17)
+}
+.fsop-bc-18 {
+    border-color: var(--fsop-18)
+}
+.fsop-bc-19 {
+    border-color: var(--fsop-19)
+}
+.fsop-bc-20 {
+    border-color: var(--fsop-20)
+}
+.fsop-bc-21 {
+    border-color: var(--fsop-21)
+}
+.fsop-bc-22 {
+    border-color: var(--fsop-22)
+}
+.fsop-bc-23 {
+    border-color: var(--fsop-23)
+}
+.fsop-bc-24 {
+    border-color: var(--fsop-24)
+}
+.fsop-bc-25 {
+    border-color: var(--fsop-25)
+}
+.fsop-bc-26 {
+    border-color: var(--fsop-26)
+}
+.fsop-bc-27 {
+    border-color: var(--fsop-27)
+}
+.fsop-bc-28 {
+    border-color: var(--fsop-28)
+}
+.fsop-bc-29 {
+    border-color: var(--fsop-29)
+}
+.fsop-bc-30 {
+    border-color: var(--fsop-30)
+}
+.fsop-bc-31 {
+    border-color: var(--fsop-31)
+}
+.fsop-bc-32 {
+    border-color: var(--fsop-32)
+}
+.fsop-bc-33 {
+    border-color: var(--fsop-33)
+}
+.fsop-bc-34 {
+    border-color: var(--fsop-34)
+}
+.fsop-bc-35 {
+    border-color: var(--fsop-35)
+}
+.fsop-bc-36 {
+    border-color: var(--fsop-36)
+}
+.fsop-bc-37 {
+    border-color: var(--fsop-37)
+}
+.fsop-bc-38 {
+    border-color: var(--fsop-38)
+}
+.fsop-bc-39 {
+    border-color: var(--fsop-39)
+}
+.fsop-bc-40 {
+    border-color: var(--fsop-40)
+}
+.fsop-bc-41 {
+    border-color: var(--fsop-41)
+}
+.fsop-bc-42 {
+    border-color: var(--fsop-42)
+}
+.fsop-bc-43 {
+    border-color: var(--fsop-43)
+}
+.fsop-bc-44 {
+    border-color: var(--fsop-44)
+}
+.fsop-bc-45 {
+    border-color: var(--fsop-45)
+}
+.fsop-bc-46 {
+    border-color: var(--fsop-46)
+}
+.fsop-bc-47 {
+    border-color: var(--fsop-47)
+}
+.fsop-bc-48 {
+    border-color: var(--fsop-48)
+}
+.fsop-bc-49 {
+    border-color: var(--fsop-49)
+}
